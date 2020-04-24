@@ -1,0 +1,11 @@
+[run]
+branch = True
+omit = *venv/*
+       */__init__.py
+       */test*.py
+       */migrations/*
+       */urls.py
+       */manage.py
+       tictactoe/main.py
+       tictactoe/app.py
+
