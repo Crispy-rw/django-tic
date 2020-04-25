@@ -9,3 +9,6 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/acde6a437494590b3f61/maintainability)](https://codeclimate.com/github/Crispy-lang/django-tic/maintainability)
 
 [![Test Coverage](https://api.codeclimate.com/v1/badges/acde6a437494590b3f61/test_coverage)](https://codeclimate.com/github/Crispy-lang/django-tic/test_coverage)
+
+[![codecov](https://codecov.io/gh/Crispy-lang/django-tic/branch/dev/graph/badge.svg)](https://codecov.io/gh/Crispy-lang/django-tic)
+
