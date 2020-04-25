@@ -1,2 +1,6 @@
 .idea/
 venv
+*/__pycache__/
+htmlcov
+.DS_Store
+.pytest_cache
