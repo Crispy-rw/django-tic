@@ -4,6 +4,8 @@
 
 [![Build Status](https://travis-ci.com/Crispy-lang/django-tic.svg?branch=dev)](https://travis-ci.com/Crispy-lang/django-tic)
 
+![Django CI](https://github.com/Crispy-lang/django-tic/workflows/Django%20CI/badge.svg)
+
 [![Coverage Status](https://coveralls.io/repos/github/Crispy-lang/django-tic/badge.svg?branch=add_travis)](https://coveralls.io/github/Crispy-lang/django-tic?branch=add_travis)
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/acde6a437494590b3f61/maintainability)](https://codeclimate.com/github/Crispy-lang/django-tic/maintainability)
